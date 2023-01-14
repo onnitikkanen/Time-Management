@@ -1,6 +1,5 @@
 # Time-Management
 Time management project with Python
-# Y2_2022_30545_time_management
 
 ## Esittely
 Ohjelma on ajastin, jolla voi ottaa aikaa erilaisille aktiviteeteille ja tarkastella aiempaa ajankäyttöään kyseisten aktiviteettien parissa.
